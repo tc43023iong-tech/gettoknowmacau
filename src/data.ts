@@ -4,10 +4,13 @@
  */
 
 import { Chapter, LanguageWord, MarketItem } from './types';
+import pipiImg from './assets/images/mascot_pipi_1781181581232.png';
+import tartImg from './assets/images/mascot_tart_1781181591378.png';
+import landscapeImg from './assets/images/macau_landscape_1781181565825.png';
 
-export const PIPI_IMAGE = '/src/assets/images/mascot_pipi_1781181581232.png';
-export const TART_IMAGE = '/src/assets/images/mascot_tart_1781181591378.png';
-export const MACAU_MAP_IMAGE = '/src/assets/images/macau_landscape_1781181565825.png';
+export const PIPI_IMAGE = pipiImg;
+export const TART_IMAGE = tartImg;
+export const MACAU_MAP_IMAGE = landscapeImg;
 
 export const CHAPTERS: Chapter[] = [
   {
