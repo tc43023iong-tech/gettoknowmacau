@@ -25,7 +25,7 @@ export interface Chapter {
 export interface LanguageWord {
   phrase: string;
   pinyin: string;
-  translation: string;
+  translation?: string;
   portuguese: string;
   portuguesePronounce: string;
   funFact: string;
