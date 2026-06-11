@@ -1,0 +1,6 @@
+{
+  "name": "澳門幼兒趣味探索互動繪本",
+  "description": "專為幼兒園升小一小朋友設計的澳門歷史、文化、語言、貨幣、美食與景點趣味互動探索繪本，配備可愛角色與互動小遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
